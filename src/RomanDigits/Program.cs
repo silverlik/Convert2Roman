@@ -38,7 +38,8 @@ namespace RomanDigits
                 i = l;
                 continue;
             }
-
+            Console.WriteLine(input+ " in Roman is " + output);
+            Console.ReadKey();
         }
     }
 }
